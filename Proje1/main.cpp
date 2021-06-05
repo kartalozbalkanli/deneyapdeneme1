@@ -9,7 +9,7 @@ int main()
 
     //hsoru 1
 
-
+    cout << "cevap" << endl;
 
 
 
